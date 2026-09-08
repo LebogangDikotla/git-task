@@ -1,0 +1,1 @@
+﻿This is a simple Python program that prints out a message to the console. it was created to demonstrate basic version control workflow using Git, including initializing a repository, staging, modifying, and commiting files.
